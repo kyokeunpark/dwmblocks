@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{" ^C11^ ^d^",  "get_cpu",                     2,                  0},
 	{" ^C12^ ^d^",  "get_mem",                     2,                  0},
 	{" ^C3^  ^d^",  "get_conn",                    10,                 0},
-	{" ^C4^ ^d^",   "ovpn_status",                 120,                11},
+	{" ^C4^ ^d^",   "vpnctl status",               5,                  11},
 	{" ^C13^ ^d^",  "get_vol",                     0,                  10},
 	{" ^C1^ ^d^",   "date '+%a %b %d, %Y  %H:%M'", 30,                 0},
 };
